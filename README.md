@@ -5,7 +5,7 @@
 [![OS Version](https://img.shields.io/badge/Version-v1.0--Beta-cyan.svg)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Debian-green.svg)](https://www.debian.org)
 [![RAM Friendly](https://img.shields.io/badge/RAM-4GB%20Optimized-orange.svg)]()
-[![License](https://img.shields.io/badge/License-GPL.0%20Universal-blue.svg)]()
+[![License](https://img.shields.io/badge/License-GPLv3%20Universal-blue.svg)]()
 
 ---
 
