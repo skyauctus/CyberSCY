@@ -42,7 +42,7 @@ Since our ISO file size is **4.4 GB**, it is hosted securely on high-speed exter
 
 | Desktop Environment | Terminal & Tools Suite |
 |---------------------|------------------------|
-| ![Desktop](screenshots/desktop-preview.png) | ![Terminal](screenshots/terminal-tools.png) |
+| ![Desktop](desktop.png) | ![Terminal](desktop-cli.png) |
 
 ---
 
