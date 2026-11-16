@@ -5,7 +5,7 @@
 [![OS Version](https://img.shields.io/badge/Version-v1.0--Beta-cyan.svg)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Platform-Debian-green.svg)](https://www.debian.org)
 [![RAM Friendly](https://img.shields.io/badge/RAM-4GB%20Optimized-orange.svg)]()
-[![License](https://img.shields.io/badge/License-CC0%201.0%20Universal-blue.svg)]()
+[![License](https://img.shields.io/badge/License-GPL.0%20Universal-blue.svg)]()
 
 ---
 
@@ -16,7 +16,7 @@ CyberSCY OS is heavily optimized to strip away unnecessary background bloatware,
 
 * **Release Date:** November 17, 2026
 * **Status:** Public Beta (v1.0)
-* **Lead Developer & Creator:** Abdullah Saki (Class 10 Student, SSC Batch 2027)
+* **Lead Developer & Creator:** Abdullah Saki 
 * **Official Website:** [www.skyauctus.com](https://www.skyauctus.com)
 
 ---
