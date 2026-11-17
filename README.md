@@ -33,7 +33,7 @@ CyberSCY OS is heavily optimized to strip away unnecessary background bloatware,
 ## 📥 Download CyberSCY OS (v1.0-Beta)
 Since our ISO file size is **4.4 GB**, it is hosted securely on high-speed external cloud mirroring for reliable downloading:
 
-👉 **[Download CyberSCY OS v1.0-Beta ISO (4.4 GB) via Internet Archive](<এখানে আর্কাইভের ডাইরেক্ট ডাউনলোড লিংকটা বসাবি>)**
+👉 **[Download CyberSCY OS v1.0-Beta ISO (4.4 GB) via Internet Archive](https://huggingface.co/datasets/skyauctus/CyberSCY-OS/resolve/main/CyberSCY-OS-v1.0-Beta.iso?download=true)**
 
 ---
 
